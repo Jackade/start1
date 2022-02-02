@@ -1,0 +1,15 @@
+{
+    "name": "jackadee24test",
+    "autoload": {
+        "psr-4": {
+            "Ahmad2\\Start1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jack",
+            "email": "adejack@gmail.com"
+        }
+    ],
+    "require": {}
+}

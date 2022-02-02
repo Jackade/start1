@@ -1,0 +1,19 @@
+{
+  "name": "jackade24startfirst",
+  "version": "0.1.0",
+  "description": "![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackade/start1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jackade/start1/issues"
+  },
+  "homepage": "https://github.com/Jackade/start1#readme"
+}
