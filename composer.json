@@ -1,15 +1,19 @@
 {
-    "name": "jackadee24test",
+    "name": "vendor/jackade24",
+    "description": "this is just test and no app",
+    "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ahmad2\\Start1\\": "src/"
+            "Vendor\\Jackade24\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "jack",
-            "email": "adejack@gmail.com"
+            "name": "Jack Ade",
+            "email": "jackade24@protonmial.com"
         }
     ],
+    "minimum-stability": "beta",
     "require": {}
 }
