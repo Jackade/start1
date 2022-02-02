@@ -83,3 +83,6 @@ Text that is not a quote
 > Text that is a quote
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
