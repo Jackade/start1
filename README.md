@@ -93,3 +93,6 @@ Text that is not a quote
 <div width="500" height="500" background="black" text-color="yellow" >
     this is ahmad
 </div>
+
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
