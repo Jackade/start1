@@ -6,10 +6,10 @@
 - John Adams
 - Thomas Jefferson
 
-~~ ahmad strick
+~ahmad strick~ 
 
-** reza boid
-* * italic
+*reza boid* 
+** italic **
 
 1. First list item
    - First nested list item
