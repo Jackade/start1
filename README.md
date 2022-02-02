@@ -87,9 +87,12 @@ Text that is not a quote
 <div align="center">
     <img src="./public/example.svg" width="400" height="400" alt="css-in-readme">
 </div>
-<div width="500" height="500" background="black" text-color="yellow" >
+<div width="500" height="500" background="black" 
+color="yellow" >
     this is ahmad
 </div>
 
 <h1 color="yellow" style="background-color:DodgerBlue;">Hello World</h1>
 <p style="background-color:Tomato;">Lorem ipsum...</p>
+
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
