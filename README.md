@@ -74,4 +74,4 @@ git commit
 Link
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-./public/ad.svg
+./public/ad.svg[^2]
