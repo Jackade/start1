@@ -8,8 +8,9 @@
 
 ~ahmad strick~ 
 
-*reza boid* 
-**italic**
+**This is bold text** 
+
+*italic*
 
 1. First list item
    - First nested list item
