@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jackade/start1/issues"
   },
-  "homepage": "https://github.com/Jackade/start1#readme"
+  "homepage": "https://github.com/Jackade/start1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
